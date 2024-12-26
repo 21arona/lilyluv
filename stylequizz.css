@@ -19,11 +19,10 @@ body {
 }
 
 #titulo {
+    margin-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(61, 58, 59);
-    /* Ajout d'une transparence */
     height: 110px;
 }
 
